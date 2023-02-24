@@ -1,3 +1,3 @@
 # wavl-ets
-(this project is not abandoned, just paused!)
-prototype implementation of erlang term storage
+
+prototyping ideas for implementating erlang term storage for [firefly](https://github.com/GetFirefly/firefly)

@@ -1,5 +1,9 @@
 /*
 - https://www.erlang.org/doc/man/ets.html
+- futures based api
+- reference counted tables and data
+- no locks across yield points
+- 
 
 Table types:
 1. set - AVL
