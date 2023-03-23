@@ -1,7 +1,3 @@
 /target
 /.idea
 /.tools-version
-
-# ignore related ds
-src/avl_tree.rs
-src/rb_tree.rs
