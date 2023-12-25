@@ -1,3 +1,3 @@
-# wavl-ets
+# Tsunami DB
 
-prototyping ideas for implementating erlang term storage for [firefly](https://github.com/GetFirefly/firefly)
+An alternative implemenation of erlang term storage for [firefly](https://github.com/GetFirefly/firefly)
