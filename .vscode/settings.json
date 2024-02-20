@@ -1,5 +1,0 @@
-{
-    "rust-analyzer.linkedProjects": [
-        "./erl_db/Cargo.toml"
-    ]
-}
