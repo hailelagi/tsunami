@@ -1,4 +1,6 @@
 # Tsunami DB
+Note to self:
+> The great mathematician Andrei Kolmogorov described an interesting trick that he used to get around this problem. Rather than investing all his time and effort on attacking the problem, he’d put the problem into a larger context. He’d announce a seminar series in which he’d lecture on material that he thought would be related to the problem. He’d write a set of lecture notes (often turning into a book) on material related to the problem. That way, he lowered the psychological pressure on himself. Rather than investing all his effort in an attack on the problem – which might ultimately be a complete waste of time – he knew that he’d produce something of value. By making the research process part of a larger endeavour, he ensured that the process was a success no matter how it came out, even if he failed to solve the problem, or was scooped by someone else. It’s a case of not putting all of one’s psychological eggs in one basket.
 
 archived: until I have an attack on this non-trivial big problem.
 
