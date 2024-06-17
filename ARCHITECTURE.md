@@ -16,3 +16,5 @@ This is basically a document that explains at a high-level my reasoning why this
 
 - Even with the overhead of an eventual NIF api this could be competitively performant.
 
+- Why not an embedded vector database? ai is all the rage?
+
