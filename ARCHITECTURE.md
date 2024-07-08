@@ -16,5 +16,17 @@ This is basically a document that explains at a high-level my reasoning why this
 
 - Even with the overhead of an eventual NIF api this could be competitively performant.
 
+
+# crazy maybe ideas
 - Why not an embedded vector database? ai is all the rage?
 
+## not so crazy nice ideas
+# state of the art transactions support
+- https://db.in.tum.de/~muehlbau/papers/mvcc.pdf
+
+# primary/secondary in-memory indexing
+- an ART https://db.in.tum.de/~leis/papers/ART.pdf
+https://duckdb.org/2022/07/27/art-storage.html
+
+# FAST in-memory json parsing/processing syntax + query engine
+https://github.com/ibireme/yyjson
