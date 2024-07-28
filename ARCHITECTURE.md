@@ -30,3 +30,6 @@ https://duckdb.org/2022/07/27/art-storage.html
 
 # FAST in-memory json parsing/processing syntax + query engine
 https://github.com/ibireme/yyjson
+
+## Usecases
+- log aggregation - a notriously hard problem in the BEAM - strings.
